@@ -115,6 +115,6 @@ int main()
         }
         ans += (ansofbit*(1<<i));
     }
-    cout << ans;
+    cout << ans << endl;
 
 }
